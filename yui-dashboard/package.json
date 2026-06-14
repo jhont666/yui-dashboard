@@ -17,6 +17,8 @@
     "react-dom": "19.2.4"
   },
   "devDependencies": {
+    "vite": "^5.x.x",
+    "@vitejs/plugin-react": "^4.x.x",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
